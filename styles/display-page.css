@@ -1,0 +1,44 @@
+body {
+	font-size: 0;
+}
+
+
+.container {
+	width: 800px;
+	margin: auto;
+	margin-top: 90px;
+}
+
+.top {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.bottom {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
